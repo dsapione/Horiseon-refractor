@@ -78,7 +78,7 @@ section img {
 
 section .float-right{
 	float: right;
-	margin-left: 25px;
+	margin: 0px 0px 0px 25px;
 }
 
 section h2 {
